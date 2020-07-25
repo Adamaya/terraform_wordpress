@@ -1,3 +1,3 @@
-username = "pavan"
-password = "pavan12345"
-dbname = "mydb"
+username = "adamaya"
+password = "mypass"
+dbname = "wordpress_db"
